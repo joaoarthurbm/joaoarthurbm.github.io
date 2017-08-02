@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll-Uno</title>
-    <description>Jekyll-Uno - a minimal, responsive theme for Jekyll</description>
-    <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//</link>
-    <atom:link href="http://joshgerdes.com/jekyll-uno/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 02 Aug 2017 12:14:26 -0300</pubDate>
-    <lastBuildDate>Wed, 02 Aug 2017 12:14:26 -0300</lastBuildDate>
+    <title>João Brunet</title>
+    <description>Professor - Computação @ UFCG</description>
+    <link>http://joaoartrhubm.github.io/</link>
+    <atom:link href="http://joaoartrhubm.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 02 Aug 2017 12:49:44 -0300</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2017 12:49:44 -0300</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 12:04:23 -0300</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</guid>
+        <link>http://joaoartrhubm.github.io/2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://joaoartrhubm.github.io/2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
