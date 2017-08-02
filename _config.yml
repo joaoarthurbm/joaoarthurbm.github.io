@@ -9,10 +9,9 @@ baseurl: ''
 author:
   name: 'Josh Gerdes'
   email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  twitter_username: joaobrunet
+  facebook_username: joaoarthurbm
+  github_username:  joaoarthurbm
 
 defaults:
   -
