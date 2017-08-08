@@ -1,45 +1,35 @@
-# jekyll-uno
+# Researcher
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+### [Demo Website](http://ankitsultana.com/researcher)
 
-> :warning:
-  This theme requires ruby and rubygems installed
+A clean, single column, monospace resume template built for jekyll
 
-### Features
+### Installation
 
-* Clean layout
-* Resposive layout
-* Pagination
-* Syntax highlighting
-* Social links
-* Tags listing page
-* Categories listing page
-* Google Analytics integration
-* Disqus integration
+Simply fork the repository and edit away.
 
----
+### Customization
 
-### Install and Test
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
-2. Enter the folder: `cd jekyll-uno/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
+* You can of course remove `contact.md` if you don't want it
 
-Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
+* To set the heading, edit the `title` variable in `_config.yml`
 
----
+* To edit the `links` mentioned on the navigation bar, edit the file `_data/nav.yml`
 
-### Demo and Download
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-![jekyll-uno - free Jekyll theme](/screenshot.png)
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 
----
+```html
+<img class="profile-picture" src="sherlock.jpg">
+```
 
-### Copyright and license
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
 
-It is under [the MIT license](/LICENSE).
+### License
+
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)

@@ -1,38 +1,11 @@
-# Site settings
-title: João Brunet
-description: 'Professor - Computação @ UFCG'
-url: 'http://joaoarthurbm.github.io/'
-baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+title: Researcher
+url: "http://ankitsultana.com"
+baseurl: "/researcher"
 
-author:
-  name: 'João Brunet'
-  email: joao.arthur@computacao.ufcg.edu.br
-  twitter_username: joaobrunet
-  facebook_username: joaoarthurbm
-  github_username:  joaoarthurbm
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
-
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
 markdown: kramdown
-highlighter: rouge
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
+tracking_id: #
 
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+sass:
+    style: compressed
+    sass_dir: _sass
