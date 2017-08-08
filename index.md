@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Social
 
 
 * [strava](https://www.strava.com/athletes/1313577)
