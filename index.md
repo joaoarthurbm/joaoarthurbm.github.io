@@ -10,7 +10,7 @@ layout: default
 * [facebook](https://www.facebook.com/joaoarthurbm)
 * [twitter](https://www.twitter.com/joaobrunet)
 * [medium](https://medium.com/@joaoarthurbm)
-* [lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4125086T3)
+* [lattes](http://lattes.cnpq.br/7892247821251194)
 
 ## Publications
 
