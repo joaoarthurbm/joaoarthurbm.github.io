@@ -6,7 +6,7 @@ layout: default
 
 
 <img class="profile-picture" src="sherlock.jpg">
-<img class="profile-picture" src="sherlock.jpg">
+<a href="https://www.strava.com/athletes/1313577" <img class="profile-picture" src="sherlock.jpg"> </a>
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
