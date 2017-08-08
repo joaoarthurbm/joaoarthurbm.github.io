@@ -5,7 +5,12 @@ layout: default
 ## About Me
 
 
-<a href="https://www.strava.com/athletes/1313577"> <img class="profile-picture" src="profile.jpg"> </a>
+    * [strava](https://www.strava.com/athletes/1313577)
+    * [facebook](https://www.facebook.com/joaoarthurbm)
+    * [twitter](https://www.twitter.com/joaobrunet)
+    * [medium](https://medium.com/@joaoarthurbm)
+    
+    <img class="profile-picture" src="profile.jpg">
 
 
 ## Publications
