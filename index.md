@@ -10,12 +10,15 @@ layout: default
 * [facebook](https://www.facebook.com/joaoarthurbm)
 * [twitter](https://www.twitter.com/joaobrunet)
 * [medium](https://medium.com/@joaoarthurbm)
-    
-
+* [lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4125086T3)
 
 ## Publications
 
 ### 2017
+
+**Using Load Shedding to Fight Tail-Latency on Runtime-Based Services.**
+Fireman, D.; Lopes, R; Brunet, J.
+*XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos(SBRC).*
 
 ### 2015
 
