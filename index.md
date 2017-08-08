@@ -5,9 +5,7 @@ layout: default
 ## About Me
 
 
-ass="profile-picture" src="profile.png">img class="profile-picture" src="profile.png">
-
-<a href="https://www.strava.com/athletes/1313577"> <img class="profile-picture" src="sherlock.jpg"> </a>
+<a href="https://www.strava.com/athletes/1313577"> <img class="profile-picture" src="profile.jpg"> </a>
 
 
 ## Publications
