@@ -12,6 +12,10 @@ layout: default
 * [medium](https://medium.com/@joaoarthurbm)
 * [lattes](http://lattes.cnpq.br/7892247821251194)
 
+## Mission
+
+> Be a great professor. All my activities at the university must be aligned to this goal.
+
 ## Publications
 
 ### 2017
