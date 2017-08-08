@@ -10,7 +10,7 @@ layout: default
     * [twitter](https://www.twitter.com/joaobrunet)
     * [medium](https://medium.com/@joaoarthurbm)
     
-    <img class="profile-picture" src="profile.jpg">
+    <img class="profile-picture" src="profile.png">
 
 
 ## Publications
