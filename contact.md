@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [joao.arthur@computacao.ufcg.edu.br](mailto:joao.arthur@computacao.ufcg.edu.br)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+55-123123](tel:+91-123123)
 
 ---
 
