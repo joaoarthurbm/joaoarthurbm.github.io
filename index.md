@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Social
+## About me
 
+<img class="profile-picture" src="profile.png">
 
 * [strava](https://www.strava.com/athletes/1313577)
 * [facebook](https://www.facebook.com/joaoarthurbm)
 * [twitter](https://www.twitter.com/joaobrunet)
 * [medium](https://medium.com/@joaoarthurbm)
     
-<img class="profile-picture" src="profile.png">
 
 
 ## Publications
