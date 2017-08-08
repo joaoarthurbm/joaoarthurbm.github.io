@@ -19,13 +19,13 @@ layout: default
 
 ### 2015
 
-> Helping Developers Help Themselves: Automatic Decomposition of Code Review Changeset
-> Who? Mike Barnett, Chris Bird, João Brunet, and Shuvendu Lahiri
-> Venue? International Conference on Software Engineering (ICSE).
+**Helping Developers Help Themselves: Automatic Decomposition of Code Review Changeset.** Mike Barnett, Chris Bird, João Brunet, and Shuvendu Lahiri.
+*International Conference on Software Engineering (ICSE)*.
 
 ### 2014
 
 Five years of Software Architecture Checking: A Case Study of Eclipse
+
 Who? João Brunet, Gail C. Murphy, Dalton Serey, and Jorge Figueiredo.
 Venue? IEEE Software.
 
