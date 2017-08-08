@@ -1,6 +1,6 @@
 title: Researcher
 url: "http://joaoarthurbm.github.io"
-baseurl: "./"
+baseurl: "."
 
 markdown: kramdown
 
