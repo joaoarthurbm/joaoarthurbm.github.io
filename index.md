@@ -13,10 +13,6 @@ layout: default
 * [medium](https://medium.com/@joaoarthurbm)
 * [lattes](http://lattes.cnpq.br/7892247821251194)
 
-## Mission
-
-> Be a great professor. All my activities at the university must be aligned to this goal.
-
 ## Long story short
 
 * 2014/present Assistant Professor at **Federal University of Campina Grande**
