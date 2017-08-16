@@ -5,7 +5,6 @@ layout: default
 ## About me
 
 <img class="profile-picture" src="profile.png">
-<img src="github.png" height="42" width="42">
 
 [strava](https://www.strava.com/athletes/1313577) [facebook](https://www.facebook.com/joaoarthurbm) [github](https://www.github.com/joaoarthurbm) [twitter](https://www.twitter.com/joaobrunet) [medium](https://medium.com/@joaoarthurbm) [lattes](http://lattes.cnpq.br/7892247821251194)
 
