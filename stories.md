@@ -29,4 +29,4 @@ is_contact: true
 
 * [Música minha gravada em 2013](https://www.youtube.com/watch?v=TORT0f62ALY)
 
-* [more...](https://medium.com/@joaoarthurbm)
+[more...](https://medium.com/@joaoarthurbm)
