@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-# Some of my most popular stories
+# Some of my stories
 
 > Don’t be an asshole. Everyone can be an asshole. The challenge is to be nice.
 
