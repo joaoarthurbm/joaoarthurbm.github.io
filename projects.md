@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-# Some projects I'm proud to collaborate.
+# Some projects I'm proud of.
 
 > [DesignWizard](http://github.com/joaorthurbm/designwizard): an API that supports the automated inspection of Java programs.
 
