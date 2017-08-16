@@ -6,12 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-* [strava](https://www.strava.com/athletes/1313577)
-* [facebook](https://www.facebook.com/joaoarthurbm)
-* [github](https://www.github.com/joaoarthurbm)
-* [twitter](https://www.twitter.com/joaobrunet)
-* [medium](https://medium.com/@joaoarthurbm)
-* [lattes](http://lattes.cnpq.br/7892247821251194)
+[strava](https://www.strava.com/athletes/1313577) [facebook](https://www.facebook.com/joaoarthurbm) [github](https://www.github.com/joaoarthurbm) [twitter](https://www.twitter.com/joaobrunet) [medium](https://medium.com/@joaoarthurbm) [lattes](http://lattes.cnpq.br/7892247821251194)
 
 ## Long story short
 
