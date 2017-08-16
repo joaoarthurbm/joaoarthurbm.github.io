@@ -25,4 +25,8 @@ is_contact: true
 
 * [Resenha: Semifinal da copa do nordeste (Campinense vs. Sport)](https://medium.com/@joaoarthurbm/resenha-semifinal-da-copa-do-nordeste-campinense-vs-sport-c6e282390283)
 
+> Traz tua vida, moça.
+
+* [Música minha gravada em 2013](https://www.youtube.com/watch?v=TORT0f62ALY)
+
 * [more...](https://medium.com/@joaoarthurbm)
