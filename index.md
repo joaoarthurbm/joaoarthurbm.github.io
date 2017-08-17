@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-<a class="btn btn-social-icon btn-github" <span class="fa fa-github"></span></a>
+<a class="btn btn-social-icon btn-github"> </a>
 
 <img class="profile-picture" src="profile.png">
 
