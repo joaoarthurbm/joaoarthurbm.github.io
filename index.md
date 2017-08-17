@@ -4,6 +4,10 @@ layout: default
 
 ## About me
 
+<a href="https://twitter.com/minimalmonkey" class="icon-button twitter"><i class="icon-twitter"></i><span></span></a>
+<a href="https://facebook.com" class="icon-button facebook"><i class="icon-facebook"></i><span></span></a>
+<a href="https://plus.google.com" class="icon-button google-plus"><i class="icon-google-plus"></i><span></span></a>
+
 <img class="profile-picture" src="profile.png">
 
 [strava](https://www.strava.com/athletes/1313577) [facebook](https://www.facebook.com/joaoarthurbm) [github](https://www.github.com/joaoarthurbm) [twitter](https://www.twitter.com/joaobrunet) [medium](https://medium.com/@joaoarthurbm) [lattes](http://lattes.cnpq.br/7892247821251194)
