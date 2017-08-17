@@ -4,7 +4,12 @@ layout: default
 
 ## About me
 
-<a class="btn btn-social-icon btn-github"> </a>
+ <a class="btn btn-social-icon btn-github"> </a>
+
+ <a class="btn  btn-social-icon btn-github">
+    <span class="fa fa-twitter"></span> Sign in with Twitter
+ </a>
+
 
 <img class="profile-picture" src="profile.png">
 
