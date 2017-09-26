@@ -18,11 +18,17 @@ layout: default
 
 ## Publications
 
+### 2018
+
+**Automatic Decomposition of Java Open Source Pull Requests: a replication study.** 
+Victor Freire, João Brunet, and Jorge Figueiredo.
+*International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM)*
+
 ### 2017
 
 **Using Load Shedding to Fight Tail-Latency on Runtime-Based Services.**
 Fireman, D.; Lopes, R; Brunet, J.
-*XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos(SBRC).*
+*XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC).*
 
 ### 2015
 
