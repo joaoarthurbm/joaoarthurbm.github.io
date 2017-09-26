@@ -22,7 +22,7 @@ layout: default
 
 **Automatic Decomposition of Java Open Source Pull Requests: a replication study.** 
 Victor Freire, João Brunet, and Jorge Figueiredo.
-*International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM)*
+*International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM).*
 
 ### 2017
 
@@ -53,7 +53,7 @@ Lauro Beltrao Costa, João Brunet, Lile Hattori, and Matei Ripeanu.
 
 **Measuring the Structural Similarity between Source Code Entities.**
 Terra, Ricardo; BRUNET, João; Miranda, Luiz; Valente, Marco Túlio; Serey, Dalton; Castilho, Douglas and Bigonha, Roberto.
-*International Conference on Software Engineering and Knowledge Engineering (SEKE)*
+*International Conference on Software Engineering and Knowledge Engineering (SEKE).*
 
 **Verificação de Conformidade Arquitetural com Testes de Design – Um Estudo de Caso.**
 I. Melo, J. Brunet, D. Guerrero, J. Figueiredo. 
