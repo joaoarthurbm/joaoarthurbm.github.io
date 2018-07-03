@@ -22,6 +22,10 @@ layout: default
 
 ### 2018
 
+**Can students help themselves? An investigation of students feedback on the quality of the source code.**
+José Raul Andrade and João Brunet. 
+*Frontiers in Education Conference (FIE).*
+
 **Automatic Decomposition of Java Open Source Pull Requests: a replication study.** 
 Victor Freire, João Brunet, and Jorge Figueiredo.
 *International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM).*
