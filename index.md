@@ -22,6 +22,10 @@ layout: default
 
 ### 2018
 
+**Improving Tail Latency of Stateful Cloud Services via GC Control and Load Shedding.**
+Daniel Fireman, João Brunet, Raquel Lopes, David Quaresma and  Thiago Emmanuel Pereira.
+*The 10th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2018).*
+
 **Can students help themselves? An investigation of students feedback on the quality of the source code.**
 José Raul Andrade and João Brunet. 
 *Frontiers in Education Conference (FIE).*
