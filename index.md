@@ -20,6 +20,13 @@ layout: default
 
 ## Publications
 
+### 2019
+
+**Automated Design Tests to
+Check Hibernate Design Recommendations.** Taciano Silva, Dalton Serey, Jorge
+Figueiredo, and João Brunet.
+*Proceedings of the XXXIII Brazilian Symposium on Software Engineering (SBES)*
+
 ### 2018
 
 **Improving Tail Latency of Stateful Cloud Services via GC Control and Load Shedding.**
