@@ -1,3 +1,6 @@
+- name: "courses"
+  link: "courses"
+
 - name: "stories"
   link: "stories"
 
