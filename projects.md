@@ -13,6 +13,6 @@ is_contact: true
 
 > [tst-eda](http://tst-eda.splab.ufcg.edu.br): online juri for data structures and algorithms students
 
-> [House of Cunha](www.houseofcunha.com.br): how do congressman vote?
+> [House of Cunha](http://www.houseofcunha.com.br): how do congressman vote?
 
 > [Quem me representa?](http://qmrepresenta.com.br) What if I was a congressman?
