@@ -20,6 +20,12 @@ layout: default
 
 ## Publications
 
+### 2020
+
+**A Systematic Literature Review of Methodology of Learning Evaluation based on Item Response Theory in the context of Programming Teaching.** SANTOS, J. S. ANDRADE, W. L.  BRUNET, J. and MELO, M. R. A. *Frontiers in Education Conference Proceedings, 2020.*
+
+**Applying Item Response Theory to Evaluate Instruments of Introductory Programming Skills Measurement.** SANTOS, J. S. ANDRADE, W. L. BRUNET, J. and MELO, M. R. A. *Frontiers in Education Conference Proceedings, 2020.*
+
 ### 2019
 
 **Automated Design Tests to
