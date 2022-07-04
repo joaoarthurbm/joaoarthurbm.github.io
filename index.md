@@ -22,7 +22,7 @@ layout: default
 
 ### 2022
 
-**A Systematic Literature Review on Predictive Cognitive Skills in Novice Programming**. SANTOS, J. S. ANDRADE, W. L.  BRUNET, J. and MELO, M. R. A. *Frontiers in Education Conference Proceedings, 2022.*
+**A Systematic Literature Review on Predictive Cognitive Skills in Novice Programming**. SANTOS, J. S. ANDRADE, W. L.  BRUNET. *Frontiers in Education Conference Proceedings, 2022.*
 
 ### 2020
 
