@@ -20,6 +20,10 @@ layout: default
 
 ## Publications
 
+### 2022
+
+**A Systematic Literature Review on Predictive Cognitive Skills in Novice Programming**. SANTOS, J. S. ANDRADE, W. L.  BRUNET, J. and MELO, M. R. A. *Frontiers in Education Conference Proceedings, 2022.*
+
 ### 2020
 
 **A Systematic Literature Review of Methodology of Learning Evaluation based on Item Response Theory in the context of Programming Teaching.** SANTOS, J. S. ANDRADE, W. L.  BRUNET, J. and MELO, M. R. A. *Frontiers in Education Conference Proceedings, 2020.*
@@ -30,8 +34,7 @@ layout: default
 
 **Automated Design Tests to
 Check Hibernate Design Recommendations.** Taciano Silva, Dalton Serey, Jorge
-Figueiredo, and João Brunet.
-*Proceedings of the XXXIII Brazilian Symposium on Software Engineering (SBES)*
+Figueiredo, and João Brunet. *Proceedings of the XXXIII Brazilian Symposium on Software Engineering (SBES)*
 
 ### 2018
 
