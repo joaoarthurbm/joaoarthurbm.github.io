@@ -20,6 +20,20 @@ layout: default
 
 ## Publications
 
+### 2025
+
+**Beyond Functionality: Automating Algorithm Design Evaluation in Introductory Programming Courses.** Caio Oliveira, Leandra Silva, and João Brunet. In Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025).
+
+**Evaluating Semantic Caching in Practice: A Study on a LLM-Driven Distributed Application in a Brazilian EdTech.** Henrique Lopes Nóbrega, David Maia, and João Brunet. Proceedings of the XLIII Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025) – Industry Track.
+
+**Explorando Network Slicing em Redes 5G em um Contexto Educacional.** Ekarani Teles Silvestre, Axel Crispim, Rian Ismael Elias de Melo, João Brunet, Ruan Delgado Gomes, and Thiago Moraes. Proceedings of the XLIII Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025) – Industry Track.
+
+### 2023
+
+**User-centric and Secure Electronic Authentication for Digital Health Services: A Case Study for Brazil.** Thashmee Karunarathne and Joao Monteiro. In Proceedings of the 16th International Conference on Theory and Practice of Electronic Governance (ICEGOV '23). Association for Computing Machinery, New York, NY, USA, 151–158. https://doi.org/10.1145/3614321.3614339.
+
+**Screening Programming’s Reliability to Measure Predictive Programming Skills.** Danilo Medeiros Dantas, Jucelio Soares dos Santos, Kézia de Vasconcelos Oliveira Dantas, Wilkerson L. Andrade, João Brunet, and Monilly Ramos Araujo Melo. In Proceedings of the XXXIV Brazilian Symposium on Informatics in Education (SBIE 2023), Brazil, p. 1779.
+
 ### 2022
 
 **A Systematic Literature Review on Predictive Cognitive Skills in Novice Programming**. SANTOS, J. S. ANDRADE, W. L.  BRUNET. *Frontiers in Education Conference Proceedings, 2022.*
