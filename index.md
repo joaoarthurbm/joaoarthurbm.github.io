@@ -12,7 +12,7 @@ layout: default
 
 ## Long story short
 
-* 2014/present Assistant Professor at **Federal University of Campina Grande**
+* 2014/present Associate Professor at **Federal University of Campina Grande**
 * Jun-2014/Sept-2014 - Intern at **Microsoft Research**, working with Shuvendu Lahiri, Christian Bird, and Mike Barnett.
 * 2013/2014 - PhD guest student at **University of British Columbia (UBC)**, under supervision of professor Gail C. Murphy
 * 2007/2009 - Master in Computer Science at UFCG
