@@ -22,6 +22,14 @@ layout: default
 
 ### 2025
 
+**A Defect Taxonomy for Infrastructure as Code Scripts: A Replication Study.** W. Oliveira, F. Paiva, Thiago Emmanuel Pereira da Silva, and J. Brunet. In Proceedings of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2025).
+
+**NuAppFirewall: An Open-Source macOS Application Firewall for Corporate Security.** B. C. Pacheco, C. Suyungutmus, J. Neto, V. Delgado, W. Araujo, J. Brunet, M. Domingues Junior, and A. Melo. In Proceedings of the XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025).
+
+**A Proof of Concept for QoS-Oriented 5G Network Slicing with eBPF-TC.** E. Silvestre, R. Melo, R. Gomes, E. Junior, and J. Brunet. In Proceedings of the XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2025).
+
+**Language Models as Architectural Gatekeepers: Automating Conformance Checking from Natural Language.** A. Lucena, E. Alves, and J. Brunet. In Proceedings of the XVI Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2025).
+
 **Beyond Functionality: Automating Algorithm Design Evaluation in Introductory Programming Courses.** Caio Oliveira, Leandra Silva, and João Brunet. In Proceedings of the 17th International Conference on Computer Supported Education (CSEDU 2025).
 
 **Evaluating Semantic Caching in Practice: A Study on a LLM-Driven Distributed Application in a Brazilian EdTech.** Henrique Lopes Nóbrega, David Maia, and João Brunet. Proceedings of the XLIII Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025) – Industry Track.
