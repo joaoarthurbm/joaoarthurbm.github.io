@@ -98,5 +98,25 @@ hr {
     }
 }
 
+.social-links {
+    display: flex;
+    gap: 18px;
+    margin: 15px 0;
+    a {
+        display: inline-flex;
+        align-items: center;
+        svg {
+            width: 26px;
+            height: 26px;
+            fill: #555;
+            transition: fill 0.2s, transform 0.2s;
+        }
+        &:hover svg {
+            fill: $accent;
+            transform: scale(1.2);
+        }
+    }
+}
+
 @import "typography";
 @import "tables";
