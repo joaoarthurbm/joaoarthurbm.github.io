@@ -20,6 +20,24 @@ layout: default
 
 ## Publications
 
+### 2026
+
+**An MCP-based Solution for Managing Slices in Private 5G Networks.** V. Verissimo, M. Ferreira, L. Buriti, T. Morais, R. Alves, and J. Brunet. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (WGRS - Workshop de Gerência e Operação de Redes e Serviços), 2026.
+
+**ARIT: A Tool for Detecting Code Smells in Clojure Programs.** T. Laurentino, R. Serey, W. Araujo, N. Silva, and J. Brunet. In Anais do XVII Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2026), 2026.
+
+**Benchmark Data Contamination in Underrepresented Languages: A Comprehensive Analysis Using Brazilian Data.** I. Vilar, D. Maia, J. Brunet, F. Morais, and L. Marinho. In Proceedings of The Fifteenth Language Resources and Evaluation Conference (LREC 2026), 2026, p.4765.
+
+**Can LLMs Turn Design Discussions into Architectural Tests? An Empirical Study with Codestral.** A. Lucena, J. Brunet, and E. Alves. In Proceedings of 20th European Conference on Software Architecture (ECSA 2026), 2026.
+
+**End-to-End Pipeline for Traffic Load Prediction in a Simulated 5G O-RAN Network.** A. Nascimento, J. Silva, V. Verissimo, T. Morais, R. Alves, and J. Brunet. In Proceedings of 31st IEEE Symposium on Computers and Communications (ISCC) - NGSME Workshop, 2026.
+
+**HuNeBR: A Multitask Benchmark to Evaluate LLMs' Understanding of Northeastern Brazilian Portuguese Humor.** J. Gama, D. Maia, L. Marinho, F. Morais, and J. Brunet. In Proceedings of The Fifteenth Language Resources and Evaluation Conference (LREC 2026), 2026, p.299-311.
+
+**Influence of Core Decentralization on the Performance of a Private 5G Network.** E. Silva Junior, H. Dantas, F. Silva Filho, T. Morais, R. Gomes, and J. Brunet. In Anais do XVII Workshop de Pesquisa Experimental da Internet do Futuro, 2026.
+
+**JudgeBench-BR: A Replication and Adaptation of a Multi-Domain Benchmark for Evaluating LLM Judges in Brazilian Portuguese.** R. Costa, C. Silva, J. Brunet, F. Morais, and D. Maia. In Anais do 36th Brazilian Conference on Intelligent Systems (BRACIS), 2026.
+
 ### 2025
 
 **A Defect Taxonomy for Infrastructure as Code Scripts: A Replication Study.** W. Oliveira, F. Paiva, Thiago Emmanuel Pereira da Silva, and J. Brunet. In Proceedings of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2025).
@@ -32,9 +50,9 @@ layout: default
 
 **Language Models as Architectural Gatekeepers: Automating Conformance Checking from Natural Language.** A. Lucena, E. Alves, and J. Brunet. In Proceedings of the XVI Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2025) - IIER track.
 
-**Evaluating Semantic Caching in Practice: A Study on a LLM-Driven Distributed Application in a Brazilian EdTech.** Henrique Lopes Nóbrega, David Maia, and João Brunet. Proceedings of the XLIII Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025) – Industry Track.
+**Evaluating Semantic Caching in Practice: A Study on a LLM-Driven Distributed Application in a Brazilian EdTech.** H. Nóbrega, D. Maia, and J. Brunet. In Anais do XLIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2025, p.382-387.
 
-**Explorando Network Slicing em Redes 5G em um Contexto Educacional.** Ekarani Teles Silvestre, Axel Crispim, Rian Ismael Elias de Melo, João Brunet, Ruan Delgado Gomes, and Thiago Moraes. Proceedings of the XLIII Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025) – Industry Track.
+**Explorando Network Slicing em Redes 5G em um Contexto Educacional.** E. Silvestre, R. Gomes, A. Medeiros, R. Melo, and J. Brunet. In Anais do XLIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2025, p.364-369.
 
 ### 2023
 
