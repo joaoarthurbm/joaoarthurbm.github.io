@@ -41,6 +41,8 @@ layout: default
 
 ### 2026
 
+**Code Smells in Clojure: Initial Findings from a Grey Literature Review.**  Araújo, W., Truta, J., Vegi, L., Valente, M. T., and Brunet, J. II Workshop on Software Engineering for Functional Prgramming (SE4FP), 2026.
+
 **An MCP-based Solution for Managing Slices in Private 5G Networks.** V. Verissimo, M. Ferreira, L. Buriti, T. Morais, R. Alves, and J. Brunet. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (WGRS - Workshop de Gerência e Operação de Redes e Serviços), 2026.
 
 **ARIT: A Tool for Detecting Code Smells in Clojure Programs.** T. Laurentino, R. Serey, W. Araujo, N. Silva, and J. Brunet. In Anais do XVII Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2026), 2026.
