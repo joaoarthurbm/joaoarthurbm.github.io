@@ -43,10 +43,12 @@ hr {
     font-size: 16px;
     color: #666;
     margin-top: -2px;
-    clear: both;
+}
+#author-header {
+    margin: 0;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    padding: 40px 0 20px 0;
 }
 .navbar-ul {
     display: inline-block;

@@ -57,8 +57,10 @@
     <div class="wrapper">
         <div class="navbar container">
 
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-            <div id="author-subtitle">Professor - Computação @ UFCG</div>
+            <div id="author-header" class="alignable pull-left">
+                <a id="author-name" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+                <div id="author-subtitle">Professor - Computação @ UFCG</div>
+            </div>
             <ul class="alignable pull-right navbar-ul">
                 {% for x in site.data.nav %}
                     {% if x.name == "Resume" %}
